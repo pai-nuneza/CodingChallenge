@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingChallenge", "CodingCh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralsReduction", "RomanNumeralsReduction\RomanNumeralsReduction.csproj", "{ED303B39-2E72-4042-870A-31D8E2731287}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wildcards", "Wildcards\Wildcards.csproj", "{C48AFC9F-8255-4BB1-B299-81144DDB72F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{ED303B39-2E72-4042-870A-31D8E2731287}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED303B39-2E72-4042-870A-31D8E2731287}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED303B39-2E72-4042-870A-31D8E2731287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C48AFC9F-8255-4BB1-B299-81144DDB72F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C48AFC9F-8255-4BB1-B299-81144DDB72F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C48AFC9F-8255-4BB1-B299-81144DDB72F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C48AFC9F-8255-4BB1-B299-81144DDB72F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
