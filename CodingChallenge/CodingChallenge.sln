@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingChallenge", "CodingChallenge\CodingChallenge.csproj", "{E3634CEE-EE2B-46C4-9257-39137026A440}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingChallenge", "CodingChallenge\CodingChallenge.csproj", "{E3634CEE-EE2B-46C4-9257-39137026A440}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralsReduction", "RomanNumeralsReduction\RomanNumeralsReduction.csproj", "{ED303B39-2E72-4042-870A-31D8E2731287}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanNumeralsReduction", "RomanNumeralsReduction\RomanNumeralsReduction.csproj", "{ED303B39-2E72-4042-870A-31D8E2731287}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wildcards", "Wildcards\Wildcards.csproj", "{C48AFC9F-8255-4BB1-B299-81144DDB72F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wildcards", "Wildcards\Wildcards.csproj", "{C48AFC9F-8255-4BB1-B299-81144DDB72F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HasThreeDecimals", "HasThreeDecimals\HasThreeDecimals.csproj", "{B9138A51-1C6B-4AD3-A8D6-1F603E5B1C81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{C48AFC9F-8255-4BB1-B299-81144DDB72F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C48AFC9F-8255-4BB1-B299-81144DDB72F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C48AFC9F-8255-4BB1-B299-81144DDB72F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9138A51-1C6B-4AD3-A8D6-1F603E5B1C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9138A51-1C6B-4AD3-A8D6-1F603E5B1C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9138A51-1C6B-4AD3-A8D6-1F603E5B1C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9138A51-1C6B-4AD3-A8D6-1F603E5B1C81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
